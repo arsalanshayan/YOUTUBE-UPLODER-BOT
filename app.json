@@ -11,7 +11,7 @@
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": ""
+      "value": "@uploadtotubebot"
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
